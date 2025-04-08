@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on energy management. 
+- 🌱 I’m currently learning deep reinforcement learning. 
 
 <!--
 **NextEasywood/NextEasywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
